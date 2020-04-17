@@ -1,0 +1,21 @@
+{
+  "name": "px-transform-loader",
+  "version": "0.0.1",
+  "description": "A loader transfer px to rem in css file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "px",
+    "rem"
+  ],
+  "author": "luowei",
+  "license": "ISC",
+  "dependencies": {},
+  "peerDependencies": {
+    "css": "^2.2.4",
+    "postcss": "^7.0.27",
+    "schema-utils": "^2.6.5"
+  }
+}
