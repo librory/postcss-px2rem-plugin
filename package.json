@@ -1,5 +1,5 @@
 {
-  "name": "px-transform-loader",
+  "name": "postcss-px2rem-plugin",
   "version": "0.0.1",
   "description": "A loader transfer px to rem in css file.",
   "main": "index.js",
